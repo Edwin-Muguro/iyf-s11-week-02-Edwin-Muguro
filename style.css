@@ -1,0 +1,26 @@
+.page-title {
+  color: #a90707;
+  font-size: 25px;
+  margin-top: 20px;
+}
+.about-me {
+  color: #1005ab;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.interests {
+  color: #0aab05;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.nav-bar {
+  display: flex;
+  margin: 2px;
+  padding: 16px;
+  overflow: hidden;
+  background-color: #0bcffb;
+  justify-content: space-around;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+
+}
